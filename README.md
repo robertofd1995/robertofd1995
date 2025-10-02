@@ -8,4 +8,7 @@
 </p>
 
 <h3 align="center">Wanna find some useful libraries?</h3>
-<a href="https://github.com/robertofd1995?tab=stars" align="center"><img src="https://img.shields.io/badge/Check%20Here-yellow?style=for-the-badge" alt="Check Here"></a>
+<p align="center">
+  <a href="https://github.com/robertofd1995?tab=stars"><img src="https://img.shields.io/badge/Check%20Here-yellow?style=for-the-badge" alt="Check Here"></a>
+</p>
+
